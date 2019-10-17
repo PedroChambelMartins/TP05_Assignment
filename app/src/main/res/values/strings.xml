@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TP05_Assignment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_a_text">This is Fragment A</string>
+    <string name="fragment_b_text">This is Fragment B</string>
+    <string name="fragment_c_text">This is Fragment C</string>
+    <string name="btn_label">Switch Fragments</string>
+</resources>
